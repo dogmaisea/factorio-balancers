@@ -9,15 +9,15 @@ A collection of balancers, based mainly on Raynquist's Balancer Books (Fall 2020
 
 ## The Concept
 
-Not long after I first started playing Factorio I came across Raynquist's Fall 2020 book, however with a new installation of the game, I lost that book and downloaded the Fall 2022 book instead, which was missing balancers I use regularly.
+Not long after I first started playing Factorio I came across Raynquist's Fall 2020 book, however with a new installation of the game, I lost that book and downloaded the Fall 2022 book instead, which was missing balancers I used regularly.
 
 Over time, I created my own balancers that were kept in a separate book, so now I had a total of three balancer books and things were just getting messy and frustrating.
 
-The idea behind this balancer book is to create one blueprint book that has the best of all balancer books, the formatting is based upon Raynquist's Fall 2022 book, however I have made, what I consider, to be quality of life improvements to the book.
+The idea behind this balancer book is to create one blueprint book that has the best of all balancer books; the formatting is based upon Raynquist's Fall 2022 book, additionally I have made, what I consider, to be quality of life improvements to the book.
 
 This includes removing the word "balancer" from all balancers, as we know they are balancers, as well as having the four most commonly used balancers for the early game on the front page of the book.
 
-I have gone one by one every balancer, and checked the minimum belt requirement, any balancers that could be updated to a lower belt requirement with very minor changes, I have gone ahead and done that, as noted in the changelog below.
+I have gone one by one every balancer, and checked the minimum belt requirement; any balancers that could be updated to a lower belt requirement with very minor changes, I have gone ahead and done that, as noted in the changelog below.
 
 I have also included a few of my own balancer designs, such as the 8_8_inline_lane_tu_blue, which I am really proud of.
 
@@ -266,17 +266,25 @@ Updated the book with Split Balancers and Corner Balancers.
 
 ### Split Balancers:
 
-- 2-2_4_tu
+- 2-2_4_split_tu
 
-> Added 2-2_4_tu, it has been designed numerous times by multiple people, so I am unsure of who to credit.
+> Added 2-2_4_split_tu, it has been designed numerous times by multiple people, so I am unsure of who to credit.
 
-- 4_2-2_tu
+- 4_2-2_split_tu
 
-> Added 4_2-2_tu, reversed version of the 2-2_4_tu done by me for this book.
+> Added 4_2-2_split_tu, reversed version of the 2-2_4_tu done by me for this book.
 
 - 4_4_p-split_tu
 
 > Added 4_4_p-split_tu, designed by NeoVortex.
+
+- 4-4_8_split_tu_blue
+
+> Added 4-4_8_split_tu_blue, from my own design book.
+
+- 8_4-4_split_tu_blue
+
+> Added 8_4-4_split_tu_blue, from my own design book.
 
 - 8-8_16_split_tu_blue
 
@@ -313,3 +321,54 @@ Updated the book with Split Balancers and Corner Balancers.
 
 > Added 16_16_corner_tu_blue, from my own design book.
 
+
+### Other Changes:
+
+- 9X book didn't have a name, so I gave it one.
+
+- One of the balancers had a spelling mistake in the name, but because I removed the word _balancer it doesn't make a difference anymore.
+
+- Rotated all of Raynquist's balancers 180 degrees, because at least for me, it annoys my brain to see them upside down, as previously mentioned.
+
+
+## Naming Convention:
+
+**Note:** *Split Balancers are shown as X-X_Y or Y_X-X where X-X is the split.*
+
+The naming convention I use in order that they are applied to the balancers;
+
+- **ALT**
+
+> [ALT] Alternate version of the main balancer because of the limitations of underground belt length.
+
+- **INLINE**
+
+> [INLINE] Inline balancers are the same width as their inputs and outputs, this is only mentioned when there is another shorter design but of a thicker width.
+
+- **LANE**
+
+> [LANE] Lane balancers also balance both sides of each belt.
+
+- **SPLIT**
+
+> [SPLIT] Split Balancers take two directions of input and output them in a third, or vice versa.
+
+- **SHORT**
+
+> [SHORT] Short Balancers try and make the height as compact as possible, at the expense of width.
+
+- **TU**
+
+> [TU] Throughput-unlimited balancers always provide full throughput.  Regular balancers are only guaranteed to provide full throughput when all inputs or all outputs are utilized.
+
+- **RED**
+
+> [RED] Minimum red belts.
+
+- **BLUE**
+
+> [BLUE] Minimum blue belts.
+
+- **GREEN**
+
+> [GREEN] Minimum green belts.
