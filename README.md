@@ -145,7 +145,7 @@ Updated the book with Split Balancers and Corner Balancers.
 
 - 8_8
 
-> Moved two underground belts to make it downgradable to yellow belt, this fix was first posted publicaly by jackiethegreen.
+> Moved two underground belts to make it downgradable to yellow belt, this fix was first posted publicly by jackiethegreen.
 
 - 8_8_lane
 
